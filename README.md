@@ -1,2 +1,2 @@
-# Il codice è stato scritto interamente dal sottoscritto.
+# code written by me
 
